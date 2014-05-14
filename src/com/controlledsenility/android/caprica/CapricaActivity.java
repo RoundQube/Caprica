@@ -230,6 +230,7 @@ public class CapricaActivity extends Activity implements
 	public static void followMe(boolean followMe) {
 
 		// TODO: add logic to move drone based on GPS coord changes
+		// we will research this process
 
 	}
 }
