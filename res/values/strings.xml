@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">Caprica</string>
+    <string name="lat">Latitute:</string>
+    <string name="latVal">0</string>
+    <string name="lng">Longitude:</string>
+    <string name="lngVal">0</string>
+    <string name="takeOff">Take Off</string>
+    <string name="land">Land</string>
+    <string name="followMe">Follow Me</string>
+    <string name="actionSettings">Settings</string>
+
+</resources>
